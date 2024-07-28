@@ -1,0 +1,17 @@
+/* Add your CSS styles here */
+.container {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#quoteList {
+    list-style: none;
+    padding: 0;
+}
+
+#quoteList li {
+    margin-bottom: 10px;
+}
